@@ -1,6 +1,6 @@
 # Customer-segmentation-using-R
 
-Abstract
+
 In the past few years, e-commerce business has placed a greater emphasis on 
 delivering the better customer service. Building stronger customer relationships aids
 businesses in generating profits as well as customer happiness and retention. 
